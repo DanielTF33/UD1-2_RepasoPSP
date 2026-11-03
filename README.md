@@ -6,3 +6,8 @@ Pista: el proceso nace, luego espera su turno de CPU, se ejecuta, puede quedarse
 ### Solucion
 
 Nuevo -> Listo -> Ejecucion -> Bloqueado -> Terminado
+
+
+
+Diccionarios -> Ejer 2,5,9 boletin avanzado UD1
+UD2 Avanzado -> Ejer 7 y 9 nada
